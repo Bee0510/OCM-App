@@ -61,7 +61,7 @@ class _SecondPageState extends State<SecondPage> {
           child: Container(
             padding: EdgeInsets.all(10),
             decoration: BoxDecoration(
-                borderRadius: BorderRadius.circular(20),
+                borderRadius: BorderRadius.circular(10),
                 image: DecorationImage(
                     image: NetworkImage(
                         'https://wallpaperaccess.com/full/3560121.jpg'))),
